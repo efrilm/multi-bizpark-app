@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "778563407960",
+    "project_id": "theawanotif",
+    "storage_bucket": "theawanotif.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778563407960:android:013aeca4c45d53598cba2d",
+        "android_client_info": {
+          "package_name": "com.gr.multibizpark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778563407960-p5ftmnhtrel4vp6i02n0sg7ddmgr5vv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO7oUqZi4Js0pEgxZqS3EadEA9jgp2Xuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778563407960-p5ftmnhtrel4vp6i02n0sg7ddmgr5vv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778563407960:android:ad816812112081ed8cba2d",
+        "android_client_info": {
+          "package_name": "com.jge.theawa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778563407960-p5ftmnhtrel4vp6i02n0sg7ddmgr5vv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO7oUqZi4Js0pEgxZqS3EadEA9jgp2Xuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778563407960-p5ftmnhtrel4vp6i02n0sg7ddmgr5vv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
